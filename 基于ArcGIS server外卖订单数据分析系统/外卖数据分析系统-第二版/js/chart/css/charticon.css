@@ -1,0 +1,72 @@
+.icon_line {
+    background-image: url(line.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_spline {
+    background-image: url(spline.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_area {
+    background-image: url(area.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_areaspline {
+    background-image: url(areaspline.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_column {
+    background-image: url(column.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_pie {
+    background-image: url(pie.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_bar {
+    background-image: url(bar.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}
+.icon_scatter {
+    background-image: url(scatter.png);
+    background-repeat: no-repeat;
+    background-position: 0 40%;
+    padding: 0 5px 0 18px;
+    display:inline-block;
+    word-break: keep-all;
+    word-wrap: normal;
+}

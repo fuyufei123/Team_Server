@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "外卖数据分析系统-第二版", "外卖数据分析系统-第二版\外卖数据分析系统-第二版.csproj", "{2EE7C3D4-5393-4CF3-9CFE-2CCE6F05442F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE7C3D4-5393-4CF3-9CFE-2CCE6F05442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE7C3D4-5393-4CF3-9CFE-2CCE6F05442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE7C3D4-5393-4CF3-9CFE-2CCE6F05442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE7C3D4-5393-4CF3-9CFE-2CCE6F05442F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9DFC041-36E2-4FE9-ADD7-1476F04343F5}
+	EndGlobalSection
+EndGlobal
